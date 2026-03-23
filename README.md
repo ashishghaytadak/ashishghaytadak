@@ -1,118 +1,96 @@
-<div align="center">
+<h1 align="center">Hi, I'm Ashish Ghaytadak 👋</h1>
 
-# Hi, I'm **Ashish Ghaytadak** 👋  
-**Salesforce Developer | MS in Information Systems @ Syracuse | AI-driven RevOps & Analytics**
-
-[![Salesforce](https://img.shields.io/badge/Salesforce-Developer-00A1E0?logo=salesforce&logoColor=white)](https://www.salesforce.com/)
-[![Apex](https://img.shields.io/badge/Apex-Platform-blue)](https://developer.salesforce.com/)
-[![Python](https://img.shields.io/badge/Python-Data%20Science-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-Analytics-CC2927?logo=microsoftsqlserver&logoColor=white)]()
-[![MuleSoft](https://img.shields.io/badge/MuleSoft-Integration-009ADA?logo=muleSoft&logoColor=white)]()
-
-</div>
+<p align="center">
+  <b>Salesforce Developer · MS Information Systems @ Syracuse University · OPT Eligible</b><br/>
+  <a href="https://linkedin.com/in/ashishghaytadak">LinkedIn</a> ·
+  <a href="mailto:ashishghaytadak@gmail.com">ashishghaytadak@gmail.com</a> ·
+  📍 Syracuse, NY (Open to Relocation)
+</p>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-- **Salesforce Developer** with end‑to‑end experience across **Sales Cloud, Service Cloud, Health Cloud, Experience Cloud, and Agentforce**
-- 2.5+ years at **Accenture** delivering large‑scale Salesforce implementations, integrations, and CI/CD pipelines  
-- **Salesforce Intern @ PeopleLens (USA, Remote)** building Apex, REST APIs, and executive dashboards for AI-powered sales coaching  
-- Currently pursuing **MS in Information Systems @ Syracuse University**  
-- Based in the **USA (open to relocation)** and actively exploring roles at the intersection of **Salesforce, AI, and data-driven GTM**
+I'm a **Salesforce Certified Platform Developer** with 3+ years of experience building scalable CRM and automation solutions across **Sales, Service, and Experience Clouds**. I specialize in Apex, LWC, Flows, API integrations, and CI/CD pipelines — with a track record of reducing costs by **30%**, improving user adoption by **85%**, and automating complex enterprise workflows.
+
+Currently pursuing my **MS in Information Systems at Syracuse University** (graduating May 2026), I'm actively seeking full-time Salesforce Developer roles.
 
 ---
 
-### 🧩 What I Do
+## 🛠️ Tech Stack
 
-- **Salesforce Engineering**
-  - Apex (classes, triggers, batch jobs), LWC, Aura, Visualforce, Flows (record‑triggered + screen)
-  - Multi‑cloud solutions across Sales, Service, Experience & Health Cloud
-  - Design of secure orgs: Roles, Profiles, Permission Sets, Sharing, FLS, HIPAA-conscious architectures
+**Salesforce**
+`Sales Cloud` `Service Cloud` `Experience Cloud` `Health Cloud` `CPQ`
 
-- **Platform & Integrations**
-  - REST/SOAP APIs, **MuleSoft**, MS Power Automate
-  - Integrations with DocuSign, SAP ERP, HubSpot, Slack, and other enterprise systems
-  - CI/CD with **SFDX, Git, Jenkins, GitHub Actions, Copado, Gearset**
+**Development**
+`Apex` `LWC` `Visualforce` `Aura` `SOQL` `SOSL` `Trigger Frameworks` `Async Apex`
 
-- **Data & Analytics**
-  - SQL (MS SQL Server, MySQL, PostgreSQL, SOQL/SOSL)
-  - Python for analytics & ML (scikit‑learn, Pandas, Matplotlib, Seaborn)
-  - Executive‑ready dashboards and reports for pipeline, revenue, and rep performance
+**Automation & Integration**
+`Flows` `REST/SOAP APIs` `MuleSoft` `Platform Events` `DocuSign` `SAP` `HubSpot`
 
----
+**DevOps & Data**
+`CI/CD` `SFDX` `Git` `Jenkins` `Copado` `Data Modeling` `Security & Sharing`
 
-### 🛠 Tech Stack
-
-- **Salesforce**: Sales Cloud, Service Cloud, Health Cloud, Experience Cloud, Agentforce, CPQ  
-- **Dev**: Apex, LWC, Aura, Visualforce, Flows, SOQL, SOSL  
-- **Integration**: REST, SOAP, MuleSoft, Power Automate, Postman, DocuSign, SAP ERP, HubSpot, Slack  
-- **Databases**: MS SQL Server, MySQL, PostgreSQL  
-- **DevOps & Tools**: Git, GitHub, SFDX, Jenkins, GitHub Actions, Copado, Gearset, Data Loader, Workbench, VS Code, JIRA  
-- **Security & Quality**: PMD, Checkmarx, code reviews, unit/integration testing, UAT support  
-- **Methods**: Agile/Scrum, Sprint Planning, Backlog Refinement, SDLC
+**Methods**
+`Agile/Scrum` `SDLC` `Code Reviews` `UAT` `Stakeholder Collaboration`
 
 ---
 
-### 💼 Experience Snapshot
+## 💼 Experience
 
-- **Salesforce Intern – PeopleLens (USA, Remote)**
-  - Built **custom Apex triggers & REST API integrations** to sync Salesforce Sales Cloud with an AI coaching platform  
-  - Eliminated **10+ hours/week** of manual data entry and improved pipeline data accuracy by **35%**  
-  - Designed **executive dashboards + 12+ reports** surfacing real-time pipeline health and rep KPIs, helping flag **\$200K+ at-risk deals**
+### 🔹 Salesforce Developer Intern — PeopleLens, USA *(Jul 2025 – Aug 2025)*
+- Built Apex triggers and REST API integrations for bi-directional sync with an AI coaching platform → **reduced manual data entry by 10+ hrs/week**
+- Designed executive dashboards for real-time pipeline and KPI visibility
 
-- **Salesforce Developer – Accenture (India)**
-  - Led migration to **Salesforce Lightning** for a global tech client, driving **30% lower operational cost** and **85% user adoption**  
-  - Optimized Apex & batch jobs processing **50K+ records nightly** with **90%+ test coverage**, cutting production bugs by **60%**  
-  - Engineered **REST/SOAP integrations via MuleSoft** for DocuSign, SAP ERP, and HubSpot, removing 3-day signing delays  
-  - Architected solutions across Sales, Service & Experience Cloud for a **500+ user telecom client**, improving case resolution by **30%**
+### 🔹 Salesforce Developer — Accenture, India *(Oct 2021 – Apr 2024)*
+- Led enterprise migration from legacy systems to Salesforce Lightning, managing a team of 15 → **30% cost reduction, 85% adoption improvement**
+- Reduced production defects by **60%** through Apex optimization and CI/CD pipelines (SFDX, Git, Jenkins)
+- Orchestrated MuleSoft integrations with DocuSign, SAP, and HubSpot → **eliminated 3-day delays, saved 20+ hrs/week**
+- Architected multi-cloud solutions for a 500+ user telecom client → **30% faster case resolution**
+- Secured data access models with roles, permission sets, and sharing rules → **40% less manual processing**
 
-- **Salesforce Administrator – Sanjay Ghodawat Institute**
-  - Implemented Salesforce CRM for the Placement Cell (migrated **500+ students** & **50+ recruiters**)  
-  - Built validation rules, objects, dashboards & workflows that improved reporting accuracy by **60%** and saved **15+ hours/week**
-
----
-
-### 📊 Highlight Projects
-
-- **Student Mental Health Predictive Analytics**
-  - Built **Random Forest** models on data from **4,957 students / 67 features** to predict mental health outcomes with **79% accuracy**  
-  - Applied **K-Means & hierarchical clustering** to segment students into 5 risk tiers and visualized insights for counseling teams  
-  - Enabled early intervention for **300+ at‑risk students** and contributed to a **15% increase** in support outreach  
-
-- **Salesforce Opportunity Intelligence System**
-  - Developed an **Apex scoring engine + LWC dashboard + Flow invocable actions** to auto‑tier **1,000+ deals (Hot/Warm/Cold)**  
-  - Helped sales reps prioritize and close **20% more high‑value opportunities**  
-  - Achieved **100% test coverage** across 15+ Apex classes and deployed via SFDX with automated validation gates
-
-> I’m gradually open‑sourcing more of these patterns (anonymized & generalized) as reusable components for the community.
+### 🔹 Salesforce Administrator — Sanjay Ghodawat Institute, India *(Mar 2021 – Aug 2021)*
+- Migrated 500+ records and deployed custom objects, validation rules, and dashboards → **60% reporting accuracy improvement**
+- Automated interview and offer workflows using Flows → **50% reduction in admin workload**
 
 ---
 
-### 🎓 Education & Teaching
+## 🚀 Featured Projects
 
-- **MS, Information Systems – Syracuse University (School of Information Studies)**  
-- **BE, Engineering – Shivaji University, India**
+### 🔸 Omnichannel Intelligence Hub
+An AWS + Salesforce integration platform for AI-driven contact routing and case handling.
+- Reduced support case closure time by **40%**
+- Built a real-time AI Agent Desktop using **LWC + Platform Events** displaying customer sentiment and decision insights
+- Deployed via CI/CD with **95%+ test coverage**
 
-- **Teaching Assistant – Whitman School of Management**
-  - TA for **Digital Marketing Analytics** and **Essentials of Finance**  
-  - Led review sessions, built grading rubrics, and provided analytical feedback, supporting a **92% average pass rate**
-
----
-
-### ✅ Certifications
-
-- Salesforce Platform Developer I  
-- Salesforce Administrator  
-- Salesforce Platform App Builder  
-- Salesforce Agentforce Specialist  
+### 🔸 AWS Infrastructure Capacity Planning — Salesforce App
+A Salesforce-native capacity planning application integrating AWS utilization data.
+- Designed REST pipelines and custom objects for infrastructure tracking
+- Built Apex scoring workflows and interactive **LWC dashboards** for operations teams to forecast capacity risks
 
 ---
 
-### 📬 Let’s Connect
+## 🏆 Certifications
 
-- **Email**: `ashishghaytadak@gmail.com`  
-- **Location**: USA (open to relocation)
+| Certification |
+|---|
+| ✅ Salesforce Certified Platform Developer I |
+| ✅ Salesforce Certified Agentforce Specialist |
+| ✅ Salesforce Certified Administrator |
+| ✅ Salesforce Certified Platform App Builder |
 
-> I’m always happy to chat about Salesforce architecture, revenue intelligence, and bringing AI into GTM workflows.  
-> If you’re hiring for Salesforce + data/AI roles, feel free to reach out.
+---
+
+## 🎓 Education
+
+- 🎓 **MS in Information Systems** — Syracuse University, USA *(Aug 2024 – May 2026)*
+- 🎓 **BE in Engineering** — Shivaji University, India *(Aug 2017 – Jul 2021)*
+
+---
+
+## 📬 Let's Connect
+
+I'm open to **full-time Salesforce Developer opportunities** starting mid-2026. Feel free to reach out!
+
+- 📧 [ashishghaytadak@gmail.com](mailto:ashishghaytadak@gmail.com)
+- 💼 [linkedin.com/in/ashishghaytadak](https://linkedin.com/in/ashishghaytadak)
