@@ -16,7 +16,7 @@
 ### 🚀 About Me
 
 - **Salesforce Developer** with end‑to‑end experience across **Sales Cloud, Service Cloud, Health Cloud, Experience Cloud, and Agentforce**
-- 3+ years at **Accenture** delivering large‑scale Salesforce implementations, integrations, and CI/CD pipelines  
+- 2.5+ years at **Accenture** delivering large‑scale Salesforce implementations, integrations, and CI/CD pipelines  
 - **Salesforce Intern @ PeopleLens (USA, Remote)** building Apex, REST APIs, and executive dashboards for AI-powered sales coaching  
 - Currently pursuing **MS in Information Systems @ Syracuse University**  
 - Based in the **USA (open to relocation)** and actively exploring roles at the intersection of **Salesforce, AI, and data-driven GTM**
