@@ -3,7 +3,7 @@
 <p align="center">
   <b>Salesforce Developer · MS Information Systems @ Syracuse University · OPT Eligible</b><br/>
   <a href="https://linkedin.com/in/ashishghaytadak">LinkedIn</a> ·
-  <a href="mailto:ashishghaytadak@gmail.com">ashishghaytadak@gmail.com</a> ·
+  <a href="/cdn-cgi/l/email-protection#3f5e4c57564c5758575e464b5e5b5e547f58525e5653115c5052"><span class="__cf_email__" data-cfemail="7a1b09121309121d121b030e1b1e1b113a1d171b131654191517">[email&#160;protected]</span></a> ·
   📍 Syracuse, NY (Open to Relocation)
 </p>
 
@@ -31,12 +31,31 @@ Currently pursuing my **MS in Information Systems at Syracuse University** (grad
 **DevOps & Data**
 `CI/CD` `SFDX` `Git` `Jenkins` `Copado` `Data Modeling` `Security & Sharing`
 
+**Python & Data**
+`Python` `Streamlit` `Pandas` `Scikit-learn` `XGBoost` `Random Forest` `Data Visualization`
+
 **Methods**
 `Agile/Scrum` `SDLC` `Code Reviews` `UAT` `Stakeholder Collaboration`
 
 ---
 
 ## 💼 Experience
+
+### 🔹 Teaching Assistant — Digital Marketing Analytics — Syracuse University *(Jan 2026 – Present)*
+- Developed two interactive web apps for a digital marketing course using Python (Streamlit, Pandas):
+  - **Paid Search Dashboard**: Google Ads-style reporting tool displaying campaign performance, keyword metrics, and ad copy examples
+  - **Bid Simulator**: Real-time feedback tool where students set CPC bids and receive impressions, clicks, conversions, CTR, CPA, and POAS metrics
+- Translated complex Excel-based simulation formulas into a production-ready Python app with Google Ads-inspired UI, deployed on Streamlit Cloud
+- Graded assignments and collaborated with the professor to iteratively improve both applications
+
+### 🔹 Teaching Assistant — Essentials of Finance — Syracuse University *(Aug 2025 – Dec 2025)*
+- Delivered lectures on Advanced Excel topics including pivot tables, VLOOKUP, conditional formatting, and complex formula building
+- Graded midterm/final exams and provided one-on-one office hour support to help students strengthen data analysis skills
+
+### 🔹 Graduate Research Assistant — NEXIS Student Technology Lab *(Jan 2025 – Dec 2025)*
+- Built a **Salesforce Lead Scoring AI tool** using Python (Scikit-learn, Pandas) and Streamlit that predicts lead conversion probability → helping sales teams prioritize high-value prospects
+- Integrated Salesforce REST API for lead data extraction; engineered CRM features and trained ML models (Random Forest, XGBoost) achieving **85%+ prediction accuracy**
+- Designed an interactive dashboard with lead ranking, source/industry filtering, and CSV export for seamless upload back into Salesforce workflows
 
 ### 🔹 Salesforce Developer Intern — PeopleLens, USA *(Jul 2025 – Aug 2025)*
 - Built Apex triggers and REST API integrations for bi-directional sync with an AI coaching platform → **reduced manual data entry by 10+ hrs/week**
@@ -92,5 +111,4 @@ A Salesforce-native capacity planning application integrating AWS utilization da
 
 I'm open to **full-time Salesforce Developer opportunities** starting mid-2026. Feel free to reach out!
 
-- 📧 [ashishghaytadak@gmail.com](mailto:ashishghaytadak@gmail.com)
-- 💼 [linkedin.com/in/ashishghaytadak](https://linkedin.com/in/ashishghaytadak)
+- �
