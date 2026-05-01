@@ -159,12 +159,6 @@ Methodology      Agile/Scrum · SDLC · Unit Testing · UAT · Documentation
 | MS in Information Systems | Syracuse University, USA | Aug 2024 – May 2026 |
 | BE in Computer Science | Shivaji University, India | Aug 2017 – Jul 2021 |
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishghaytadak&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishghaytadak&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
