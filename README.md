@@ -3,7 +3,7 @@
 <p align="center">
   <b>Salesforce Developer · MS Information Systems @ Syracuse University · OPT Eligible</b><br/>
   <a href="https://linkedin.com/in/ashishghaytadak">LinkedIn</a> ·
-  <a href="/cdn-cgi/l/email-protection#3f5e4c57564c5758575e464b5e5b5e547f58525e5653115c5052"><span class="__cf_email__" data-cfemail="7a1b09121309121d121b030e1b1e1b113a1d171b131654191517">[email&#160;protected]</span></a> ·
+  <a href="/cdn-cgi/l/email-protection#3f5e4c57564c5758575e464b5e5b5e547f58525e5653115c5052"><span class="__cf_email__" data-cfemail="ashishghaytadak@gmail.com">[email&#160;protected]</span></a> ·
   📍 Syracuse, NY (Open to Relocation)
 </p>
 
