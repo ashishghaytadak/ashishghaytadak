@@ -49,7 +49,7 @@ Currently finishing my **MS in Information Systems at Syracuse University** (gra
 
 ---
 
-### [Salesforce Knowledge Assistant](https://github.com/ashishghaytadak/salesforce-knowledge-assistant) `Coming Soon`
+### [Salesforce Knowledge Assistant](https://github.com/ashishghaytadak/salesforce-knowledge-assistant) 
 > AI-powered Q&A tool that answers Salesforce developer questions using Retrieval Augmented Generation (RAG)
 
 - Ingests Salesforce documentation, chunks, embeds, and stores in a vector database
@@ -60,7 +60,7 @@ Currently finishing my **MS in Information Systems at Syracuse University** (gra
 
 ---
 
-### [Salesforce Data AI Pipeline](https://github.com/ashishghaytadak/salesforce-data-ai-pipeline) `Coming Soon`
+### [Salesforce Data AI Pipeline](https://github.com/ashishghaytadak/salesforce-data-ai-pipeline) 
 > Connects to a live Salesforce org and generates AI-powered business insights from real CRM data
 
 - Authenticates via OAuth, pulls Accounts, Opportunities, Cases through SOQL
