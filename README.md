@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ashish Ghaytadak 👋</h1>
 
 <p align="center">
-  <b>Salesforce Developer · AI Enthusiast · MS Information Systems @ Syracuse University</b><br/>
+  <b>Salesforce Developer · Salesforce + AI · MS Information Systems @ Syracuse University</b><br/>
   <a href="https://linkedin.com/in/ashishghaytadak">LinkedIn</a> ·
   <a href="mailto:ashishghaytadak@gmail.com">ashishghaytadak@gmail.com</a> ·
   Syracuse, NY (Open to Relocation)
@@ -9,9 +9,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Salesforce-Platform_Developer_I-00A1E0?style=flat&logo=salesforce" />
+  <img src="https://img.shields.io/badge/Salesforce-Agentforce_Specialist-00A1E0?style=flat&logo=salesforce" />
   <img src="https://img.shields.io/badge/Salesforce-Administrator-00A1E0?style=flat&logo=salesforce" />
   <img src="https://img.shields.io/badge/Salesforce-App_Builder-00A1E0?style=flat&logo=salesforce" />
-  <img src="https://img.shields.io/badge/Salesforce-Agentforce_Specialist-00A1E0?style=flat&logo=salesforce" />
   <img src="https://img.shields.io/badge/Salesforce-DevOps_Fundamentals-00A1E0?style=flat&logo=salesforce" />
 </p>
 
@@ -19,102 +19,89 @@
 
 ## About Me
 
-Salesforce Developer with **3+ years** building enterprise CRM solutions across **Sales, Service, and Experience Clouds**. I write clean Apex, build responsive Lightning Web Components, architect integrations, and automate everything that should be automated.
+Salesforce Developer with **3+ years** building CRM solutions that **drive revenue, reduce costs, and improve customer experience** across **500+ user environments** spanning Sales, Service, and Experience Clouds. I write clean Apex, build responsive Lightning Web Components, architect enterprise integrations, and automate what should be automated.
 
-Currently finishing my **MS in Information Systems at Syracuse University** (graduating May 2026) and exploring the intersection of **Salesforce and AI** — building tools that connect CRM data with modern AI capabilities.
+Currently finishing my **MS in Information Systems at Syracuse University** (graduating May 2026), focused on the intersection of **Salesforce and AI** — connecting CRM data with modern AI capabilities.
 
-**What I bring to any Salesforce team:**
-- Production Apex across classes, triggers, batch jobs, and async patterns with **95%+ test coverage**
+**Selected impact:** `$200K+ annual savings` · `45% → 85% adoption` · `60% fewer production defects` · `deal cycle 14 → 9 days` · `95%+ test coverage`
+
+**What I bring to a Salesforce team:**
+- Production Apex — classes, triggers, batch, and async patterns at **95%+ test coverage**
 - Lightning Web Components and Aura for responsive, scalable UIs
-- Enterprise integrations using REST/SOAP APIs, MuleSoft, and Platform Events
-- CI/CD pipelines with SFDX, Git, Jenkins, and Copado
-- Security architecture: profiles, roles, permission sets, OWD, sharing rules, FLS
+- Enterprise integrations via **REST/SOAP APIs, MuleSoft, and Platform Events**
+- CI/CD with **SFDX, Git, Jenkins, and Change Sets**
+- Security architecture — profiles, roles, permission sets, OWD, sharing rules, FLS
 - **5 Salesforce certifications** including Platform Developer I and Agentforce Specialist
 
 ---
 
-## Projects
+## Featured Projects
+
+### [Omnichannel Intelligence Hub](https://github.com/ashishghaytadak/Omnichannel-Intelligence-Hub)
+> Real-time, sentiment-driven contact-center routing across AWS and Salesforce
+
+- Replaced manual call triage with real-time, sentiment-based routing — improving agent response times and customer experience
+- **Architecture:** Amazon Connect → AWS Lambda → Salesforce Platform Events → Apex handlers → LWC Agent Desktop
+- Deployed with **GitHub Actions CI/CD** enforcing **90%+ test coverage** and sandbox-to-production rollback planning
+
+**Tech:** `Amazon Connect` `AWS Lambda` `Platform Events` `Apex` `LWC` `CI/CD`
+
+---
+
+### [Salesforce Data AI Pipeline](https://github.com/ashishghaytadak/Salesforce-Data-AI-Pipeline)
+> AI-driven account risk scoring generated from live CRM data
+
+- Eliminated manual quarterly CRM reviews with **real-time AI risk scoring**, enabling early detection of at-risk Accounts
+- **Flow:** Salesforce org (OAuth + REST API) → SOQL extraction → Python/Pandas → LangChain AI → real-time risk-scoring dashboards
+
+**Tech:** `Python` `REST API` `OAuth` `SOQL` `Pandas` `LangChain`
+
+---
 
 ### [Secure AI-to-Salesforce Integration Platform](https://github.com/ashishghaytadak/salesforce-ai-integration-platform)
-> Enterprise-grade platform connecting external AI systems to Salesforce with governance and security at every layer
+> Enterprise platform connecting external AI systems to Salesforce with governance and security at every layer
 
-- **Apex REST endpoints** exposing Salesforce capabilities to external systems
-- **LWC Dashboard** tracking AI interactions — success rates, errors, and system health
-- **Platform Events** for real-time async communication
-- **Custom Metadata governance** — admin-configurable settings, zero code changes needed
-- **95%+ test coverage** across all Apex classes with CRUD/FLS enforcement
-- Deployed and running on a live Salesforce developer org
+- **Apex REST endpoints** exposing Salesforce capabilities to external systems, with **CRUD/FLS** enforcement
+- **LWC dashboard** tracking AI interactions — success rates, errors, and system health
+- **Platform Events** for real-time async communication; **Custom Metadata** for admin-configurable, zero-code governance
+- **95%+ test coverage** across all Apex classes, deployed on a live developer org
 
-**Tech:** `Apex` `LWC` `REST API` `Platform Events` `Custom Metadata` `SFDX` `Git`
+**Tech:** `Apex` `LWC` `REST API` `Platform Events` `Custom Metadata` `SFDX`
 
 ---
 
-### [Salesforce Knowledge Assistant](https://github.com/ashishghaytadak/salesforce-knowledge-assistant) 
-> AI-powered Q&A tool that answers Salesforce developer questions using Retrieval Augmented Generation (RAG)
+### [Salesforce Knowledge Assistant](https://github.com/ashishghaytadak/salesforce-knowledge-assistant)
+> RAG-powered Q&A that answers Salesforce developer questions with grounded, cited responses
 
-- Ingests Salesforce documentation, chunks, embeds, and stores in a vector database
-- Retrieves relevant context and generates grounded answers using an LLM
-- Conversation memory for multi-turn Q&A with source attribution
+- Ingests Salesforce documentation, then chunks, embeds, and stores it in a vector database
+- Retrieves relevant context and generates grounded answers with source attribution and multi-turn memory
 
-**Tech:** `Python` `LangChain` `ChromaDB` `Gemini` `Streamlit` `RAG`
-
----
-
-### [Salesforce Data AI Pipeline](https://github.com/ashishghaytadak/salesforce-data-ai-pipeline) 
-> Connects to a live Salesforce org and generates AI-powered business insights from real CRM data
-
-- Authenticates via OAuth, pulls Accounts, Opportunities, Cases through SOQL
-- AI-generated pipeline risk analysis, account health scores, case trend insights
-- Executive summary generation from live CRM metrics
-
-**Tech:** `Python` `simple-salesforce` `LangChain` `Pandas` `Gemini` `Streamlit`
+**Tech:** `Python` `LangChain` `ChromaDB` `RAG` `Streamlit`
 
 ---
 
-### Salesforce Lead Scoring AI Tool *(Graduate Research — NEXIS Lab)*
-> ML-powered lead conversion predictor integrated with Salesforce CRM
+### Salesforce Lead Scoring AI &nbsp;*(Graduate Research — NEXIS Lab)*
+> ML lead-conversion predictor integrated with Salesforce CRM
 
-- Integrated Salesforce REST API for lead data extraction
-- Trained Random Forest and XGBoost models achieving **85%+ prediction accuracy**
-- Interactive Streamlit dashboard with lead ranking and CSV export for Salesforce upload
+- Pulled lead data via the **Salesforce REST API**; trained Random Forest and XGBoost models to **85%+ accuracy**
+- Streamlit dashboard with lead ranking and CSV export back to Salesforce
 
-**Tech:** `Python` `Scikit-learn` `XGBoost` `Pandas` `Salesforce REST API` `Streamlit`
-
----
-
-### Predictive Analytics for Population Health *(Syracuse University)*
-> Classification models for health screening optimization
-
-- Processed 4,957 records using Python and SQL
-- Built Random Forest and DBSCAN models achieving **79% accuracy**
-
-**Tech:** `Python` `Pandas` `Scikit-learn` `DBSCAN` `SQL`
-
----
-
-### Global Tourism Recovery Analytics *(Syracuse University)*
-> Multi-source data integration and interactive visualization
-
-- Integrated 4 large datasets (2010–2024) from UNWTO, IATA, and World Bank
-- Clustering analysis across 50+ countries
-- Interactive Tableau dashboards with heatmaps and trend visualizations
-
-**Tech:** `Python` `Pandas` `NumPy` `SQL` `Tableau`
+**Tech:** `Python` `Scikit-learn` `XGBoost` `Salesforce REST API` `Streamlit`
 
 ---
 
 ## Tech Stack
 
 ```
-Salesforce       Apex · LWC · Visualforce · Aura · SOQL · SOSL · Flows
-                 Platform Events · Custom Metadata · Batch/Queueable/Future
-                 Sales Cloud · Service Cloud · Experience Cloud · Agentforce
+Salesforce       Apex · LWC · Aura · Visualforce · SOQL/SOSL · Flows · Platform Events
+                 Apex Design Patterns · Test Classes · Custom Metadata · Governor Limits
+                 Batch/Queueable/Future · Sales Cloud · Service Cloud · Experience Cloud · Agentforce
 
-Integration      REST · SOAP · MuleSoft · OAuth 2.0 · Named Credentials
+Integration      REST · SOAP · Bulk API · MuleSoft · OAuth 2.0 · Named Credentials · JSON
                  DocuSign · SAP · HubSpot · External System Connectors
 
-DevOps           SFDX · Git · Jenkins · Copado · CI/CD · Change Sets
-                 Scratch Orgs · Sandbox Management · Code Reviews
+DevOps           SFDX · Git · Jenkins · Change Sets · CI/CD · GitHub Actions
+                 Sandbox Management · Scratch Orgs · Jira · Code Reviews
 
 Security         Profiles · Roles · Permission Sets · OWD · Sharing Rules
                  Field-Level Security · CRUD/FLS · Data Modeling
@@ -131,12 +118,9 @@ Methodology      Agile/Scrum · SDLC · Unit Testing · UAT · Documentation
 
 | Role | Company | Timeline | Impact |
 |------|---------|----------|--------|
-| TA — Digital Marketing Analytics | Syracuse University | Jan 2026 – Present | Built 2 production Streamlit apps |
-| TA — Essentials of Finance | Syracuse University | Aug – Dec 2025 | Delivered Excel lectures, graded exams |
-| Research Assistant — NEXIS Lab | Syracuse University | Jan – Dec 2025 | Built SF Lead Scoring AI (85%+ accuracy) |
-| Salesforce Developer Intern | PeopleLens, USA | Jul – Aug 2025 | REST integrations, 10+ hrs/week saved |
-| Salesforce Developer | Accenture, India | Oct 2021 – Apr 2024 | 500+ users, 30% cost reduction, 85% adoption |
-| Salesforce Administrator | SGI, India | Mar – Aug 2021 | CRM deployment, 60% accuracy improvement |
+| Salesforce Developer Intern | PeopleLens, USA (Remote) | Jun – Aug 2025 | REST/AI integrations; freed 10+ hrs/week of manual entry |
+| Salesforce Developer | Accenture, India | Oct 2021 – Apr 2024 | 500+ users · $200K/yr saved · 45% → 85% adoption · 60% fewer defects · 14 → 9 day deal cycle |
+| Salesforce Administrator | Sanjay Ghodawat Institute, India | Mar – Aug 2021 | CRM deployment · 60% reporting accuracy gain · 8+ hrs/week saved |
 
 ---
 
@@ -157,8 +141,7 @@ Methodology      Agile/Scrum · SDLC · Unit Testing · UAT · Documentation
 | Degree | School | Timeline |
 |--------|--------|----------|
 | MS in Information Systems | Syracuse University, USA | Aug 2024 – May 2026 |
-| BE in Computer Science | Shivaji University, India | Aug 2017 – Jul 2021 |
-
+| Bachelor of Engineering | Shivaji University, India | Aug 2017 – Jul 2021 |
 
 ---
 
