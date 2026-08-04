@@ -21,7 +21,7 @@
 
 Salesforce Developer with **3+ years** building CRM solutions that **drive revenue, reduce costs, and improve customer experience** across **500+ user environments** spanning Sales, Service, and Experience Clouds. I write clean, governor-aware Apex, build responsive Lightning Web Components, design enterprise integrations, and automate what should be automated.
 
-Currently finishing my **MS in Information Systems at Syracuse University** (graduating May 2026), focused on the intersection of **Salesforce and AI** — connecting CRM data and platform capabilities with modern AI: Agentforce, RAG, and applied LLM workflows.
+Currently finishing my **MS in Information Systems at Syracuse University** (graduated May 2026), focused on the intersection of **Salesforce and AI** — connecting CRM data and platform capabilities with modern AI: Agentforce, RAG, and applied LLM workflows.
 
 **Selected impact:** `45% → 85% adoption` · `60% fewer production defects` · `deal cycle 14 → 9 days` · `30% faster case resolution` · `95%+ test coverage` · `~500 hrs/yr saved`
 
