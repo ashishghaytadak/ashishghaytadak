@@ -19,11 +19,11 @@
 
 ## About Me
 
-Salesforce Developer with **3+ years** building CRM solutions that **drive revenue, reduce costs, and improve customer experience** across **500+ user environments** spanning Sales, Service, and Experience Clouds. I write clean, governor-aware Apex, build responsive Lightning Web Components, design enterprise integrations, and automate what should be automated.
+Salesforce Developer with **4+ years** building CRM solutions that **drive revenue, reduce costs, and improve customer experience** across **500+ user environments** spanning Sales, Service, and Experience Clouds. I write clean, governor-aware Apex, build responsive Lightning Web Components, design enterprise integrations, and automate what should be automated.
 
-Currently finishing my **MS in Information Systems at Syracuse University** (graduated May 2026), focused on the intersection of **Salesforce and AI** — connecting CRM data and platform capabilities with modern AI: Agentforce, RAG, and applied LLM workflows.
+I hold an **MS in Information Systems from Syracuse University** (graduated May 2026), focused on the intersection of **Salesforce and AI** — connecting CRM data and platform capabilities with modern AI: Agentforce, RAG, and applied LLM workflows.
 
-**Selected impact:** `45% → 85% adoption` · `60% fewer production defects` · `deal cycle 14 → 9 days` · `30% faster case resolution` · `95%+ test coverage` · `~500 hrs/yr saved`
+**Selected impact:** `45% → 85% adoption` · `70% Agentforce deflection` · `60% fewer production defects` · `deal cycle 14 → 9 days` · `95%+ test coverage` · `~500 hrs/yr saved`
 
 **What I bring to a Salesforce team:**
 - Production Apex — classes, triggers, batch, queueable, and async patterns at **95%+ test coverage**
@@ -119,6 +119,7 @@ Methodology      Agile/Scrum · SDLC · Unit Testing · UAT · Documentation
 
 | Role | Company | Timeline | Impact |
 |------|---------|----------|--------|
+| Student Salesforce Developer (Part-time) | NEXIS Student Technology Lab, Syracuse University | Jan – Dec 2025 | Agentforce assistant resolving 70% of student-support requests · 60% faster response · LWC/Apex + config for student & project data |
 | Salesforce Developer Intern | PeopleLens, USA (Remote) | Jun – Aug 2025 | REST/AI integrations syncing 10K+ records/week; ~500 hrs/yr of manual entry removed |
 | Salesforce Developer | Accenture, India | Oct 2021 – Apr 2024 | 500+ users · 45% → 85% adoption · 60% fewer defects · 14 → 9 day deal cycle · 30% faster case resolution |
 | Salesforce Administrator | Sanjay Ghodawat Institute, India | Mar – Aug 2021 | CRM deployment · 60% reporting accuracy gain · 8+ hrs/week saved |
@@ -148,7 +149,7 @@ Methodology      Agile/Scrum · SDLC · Unit Testing · UAT · Documentation
 
 ## Let's Connect
 
-Open to **full-time Salesforce Developer opportunities** starting June 2026.
+Open to **full-time Salesforce Developer opportunities** — available now.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ashishghaytadak)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:ashishghaytadak@gmail.com)
